@@ -1,14 +1,14 @@
   <center>
   <H1>
-      PIETRO JOMINI
+      FILIPPO FERRANDO DAMILLANO
   </H1>
 </center>
 
 <center>
   <p style="opacity: 0.7;">
-      pietro.jomini@itiscuneo.eu | (+39) 327 045 1782
+      filippo.ferrando@itiscuneo.eu | (+39) 331 345 3281
       <br>
-      26/09/2001
+      07/10/2003
   </p>
 </center>
 
@@ -21,13 +21,9 @@
   <div style="opacity: 0.7;">
       <small>2017 &rarr; Presente</small>
   </div>
-  <b>ITIS Mario Delpozzo Cuneo</b><br>Indirizzo Informatico, curvatura Smart Robot
+  <b>ITIS Mario Delpozzo Cuneo</b><br>Indirizzo Informatico, Smart Robot
   <br><br>
-  <div style="opacity: 0.7;">
-      <small>2015 &rarr; 2017</small>
-  </div>
-  <b>Liceo Scientifico G. Peano</b><br>Indirizzo Scienze Applicate
-  <br><br><br>
+  <br>
 </center>
 
 <center>
@@ -37,11 +33,11 @@
   </H3>
   <br>
   <div style="opacity: 0.7;">
-      <small>2019 &rarr; Presente</small>
+      <small>2014 &rarr; 2018</small>
   </div>
-  <b>Olimpiadi di Robotica</b>
-  <br>Team leader<br>
-  <code>Programmazione</code> <code>Teamwork</code> <code>Problem Solving</code>
+  <b>First Lego League</b>
+  <br>Programmatore<br>
+  <code>Programmazione</code> <code>Teamwork</code> <code>Writing</code>
   <br>
   <br>
   <div style="opacity: 0.7;">
@@ -53,9 +49,9 @@
   <br>
   <br>
   <div style="opacity: 0.7;">
-      <small>2018 &rarr; 2019</small>
+      <small>2019 &rarr; 2020</small>
   </div>
-  <b>NAO Challenge</b><br>Squadra finalista, team leader
+  <b>NAO Challenge</b><br>Programmatore
   <br>
   <code>Programmazione</code> <code>Teamwork</code> <code>Team management</code>
   <br>
@@ -63,7 +59,7 @@
   <div style="opacity: 0.7;">
       <small>2017 &rarr; 2019</small>
   </div>
-  <b>DMT Maple</b><br>Finalista
+  <b>Olimpiadi Problem Solving</b><br>Miglior squadra dell'istituto
   <br>
   <code>Matematica</code> <code>Problem Solving</code>
   <br>
@@ -79,36 +75,19 @@
   <div style="opacity: 0.7;">
       <small>2019 &rarr; Presente</small>
   </div>
-  <b>GraffITIS</b>
-  <br>Sviluppatore web Full-Stack
-  <br><small>@ ITIS Delpozzo, Cuneo</small><br>
-  <code>Programmazione</code> <code>Web</code>
+  <b>Scuolorando</b>
+  <br>Assistente ai compiti
+  <br><small>@ Associazione Scuolorando, Cuneo</small><br>
+  <code>Teamwork</code> <code>Kids</code>
   <br>
   <br>
   <div style="opacity: 0.7;">
-      <small>2020 &rarr; Presente</small>
+      <small>Estate 2017-2018-2019</small>
   </div>
-  <b>Altervista 3d Rendering</b>
-  <br>Sviluppo plugin Altervista<br>
-  <code>Programmazione</code> <code>Design</code>
-  <br>
-  <br>
-  <div style="opacity: 0.7;">
-      <small>Estate 2019</small>
-  </div>
-  <b>Carpenteria edile</b>
-  <br>Tetto chalet di alta montagna
-  <br><small>@ Fribourg, Svizzera</small><br>
-  <code>Manualità</code> <code>Lingue</code>
-  <br>
-  <br>
-  <div style="opacity: 0.7;">
-      <small>Estate 2018</small>
-  </div>
-  <b>Carpenteria edile</b>
-  <br>Interni chalet di alta montagna
-  <br><small>@ Evolène, Svizzera</small><br>
-  <code>Manualità</code> <code>Lingue</code>
+  <b>Animatore</b>
+  <br>Intrattenimento bambini dai 6 ai 12 anni
+  <br><small>@ Spinetta, Cuneo</small><br>
+  <code>Teamwork</code>
   <br>
   <br><br>
 </center>
@@ -138,7 +117,7 @@
               </tr>
               <tr>
                 <td class="text-right">Francese</td>
-                <td>Buono</td>
+                <td>Buono [Certificazione DELF A2]</td>
               </tr>
             </tbody>
           </table>
