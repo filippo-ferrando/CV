@@ -187,6 +187,7 @@ const cv = {
 <center>
   <small>Principiante | Buono | Esperto | Fluente | Nativo</small>
 </center>
+<br>
 `
 };
 
