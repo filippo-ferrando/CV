@@ -167,3 +167,13 @@ const md = markdownit({
   html: true,
   typographer: true
 });
+
+$("#cv").modal({
+  show: false
+});
+
+$("#render").html(md.render(cv.completo));
+
+const cvc = () => {
+  $("#cv").modal("show");
+};
