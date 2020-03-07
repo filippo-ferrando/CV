@@ -13,7 +13,7 @@ const titleOptions = [
   "uno Studente"
 ];
 
-const titleToggleInfo = ["Click to stop", "Click to start"];
+const titleToggleInfo = ["Start", "Stop"];
 
 let titleOn = true;
 
